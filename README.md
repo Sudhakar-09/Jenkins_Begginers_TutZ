@@ -79,3 +79,29 @@ Save & Finish ! ---------> Start Using Jenkins.
 # Jenkins UI:
 Lets Explore Everything About Jenkins in Meanwhile: 
 ![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/f82c8ef5-d1e1-4fe8-8581-2076781bb790)
+
+# Creating 1st Job In Jenkins:
+### 1 . Click on Create job / New Item 
+
+### 2 . Select FreeStyle Project 
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/45f7a11c-37f5-4fe9-80dc-4bfd3053244b)
+
+### 3 . Select Execeute Shell Section Under ADD BUILD STEP:
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/11ab916e-f9c9-4c64-a41d-2cb11762715d)
+
+### 4. Let's Write some basic shell commands & Build it:
+apply & save !
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/2fd84b91-e792-4c51-9874-f66f02833fa4)
+
+### 5. Build The Project / JOb :
+click on Build Now:
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/aa670e0f-0ddf-4b7b-9fc0-e84d95f608ae)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/1be77013-3aa6-48e3-9ae7-3426b1cf51fa)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/9fa75e85-3b44-49ff-b12b-8dfc7006291e)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/781ef6fe-b138-41e2-8bcd-4900422c8b68)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/cecdc010-66c6-4104-a47f-eaaf430ebb26)
