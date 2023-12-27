@@ -117,3 +117,10 @@ click on Build Now:
 ![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/781ef6fe-b138-41e2-8bcd-4900422c8b68)
 
 ![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/cecdc010-66c6-4104-a47f-eaaf430ebb26)
+
+## Jenkins Default User and Home Directory
+
+Jenkins comes with a default user and home directory:
+
+- **Default User:** `jenkins`
+- **Home Directory for a Project (Example):** `/var/lib/jenkins/workspace/<Your-Project-name>`
