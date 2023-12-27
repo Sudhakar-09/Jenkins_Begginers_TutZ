@@ -124,3 +124,17 @@ Jenkins comes with a default user and home directory:
 
 - **Default User:** `jenkins`
 - **Home Directory for a Project (Example):** `/var/lib/jenkins/workspace/<Your-Project-name>`
+
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/66880938-34e2-4c4e-a814-9ce6803415fc)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/b414e1bb-0770-4c15-ba83-73de7d20221e)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/6a85943e-8874-4515-b1fe-6e18abd0f295)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/1cf29d0d-a4ff-4a81-b5ae-b90ae3af4593)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/d5dc9bf8-1196-4ead-94ab-419bb703902b)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/a6f8ceaa-95d1-4c8c-a399-92e6f0ddb0d4)
+
