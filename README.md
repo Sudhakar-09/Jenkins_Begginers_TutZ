@@ -138,3 +138,90 @@ Jenkins comes with a default user and home directory:
 
 ![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/a6f8ceaa-95d1-4c8c-a399-92e6f0ddb0d4)
 
+Build History: 
+First-freestyle-project #1:
+Here First-freestyle-project is project-name 
+Build Number: #1
+Build Time: 17 minutes ago
+Build Status: Stable
+Action: View Console Output ...
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/3e49ec20-aa65-4132-9108-6e7d4432ede4)
+
+# Search Bar :
+Jenkins Search Bar is also used to navigate to projects
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/cd3140d0-93be-4f49-8909-27d8c046fee2)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/292cb404-98f2-4ee6-a3f7-64b7af406419)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/7b7b62fa-3f2e-4a61-8537-e20ec6417fb2)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/758609ee-d359-4392-ad46-2c760b73eaf6)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/719c5436-0336-42aa-9798-de6c07be92f4)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/2077e87a-d8b9-4a08-a9c7-ad7398186743)
+
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/83da71bf-a13f-4f5f-a3b3-4aab612d7c16)
+
+# Jenkins Naming Convention for Projects
+
+## Introduction
+
+Naming conventions provide a structured and consistent approach to naming Jenkins projects. This README outlines a simple naming convention and its advantages.
+
+## Naming Convention
+
+### Example Naming:
+
+- **Project Name:** `testproject`
+  
+  - `testproject-build`
+  - `testproject-test`
+  - `testproject-deploy`
+  - `testproject-deploy-prod`
+
+### Advantages of Naming Convention
+
+1. **Easy to Understand:**
+   - Meaningful project names for quick understanding.
+
+2. **Keep Things Consistent:**
+   - Use the same structure for all projects to keep things tidy.
+
+3. **Find Projects Easily:**
+   - Organize projects neatly in the Jenkins dashboard.
+
+4. **Understand Workflows:**
+   - See at a glance what each part of a workflow does.
+
+5. **Manage Projects Effortlessly:**
+   - Keep projects running smoothly with a clear structure.
+
+6. **Automation-Friendly:**
+   - Help scripts and automation tools by sticking to a pattern.
+
+7. **Quick Search and Filters:**
+   - Easily find what you need in Jenkins with a consistent format.
+
+8. **Grow Without Chaos:**
+   - Handle more projects as your system expands.
+
+9. **Simple Documentation:**
+   - Let the project names act like simple documentation.
+
+## Usage
+
+1. **Create a new Jenkins project:**
+   - Follow the naming convention when creating a new Jenkins project.
+
+2. **Consistent Naming Across Workflows:**
+   - Maintain consistency across different stages of your project workflows.
+
+3. **Enhance Visibility:**
+   - Enjoy an organized Jenkins dashboard with clear project names.
+
+## Conclusion
+
+Following a naming convention brings clarity, consistency, and ease of management to your Jenkins projects. This simple practice enhances collaboration, automates processes, and ensures a smooth scaling of your Jenkins environment.
+
