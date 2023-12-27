@@ -3,8 +3,10 @@
 ## Jenkins Installation on Ubuntu:
 
 Jenkins Installation Guide : 
-https://www.jenkins.io/doc/book/installing/linux/
 
+``` bash
+https://www.jenkins.io/doc/book/installing/linux/
+```
 ## prerequisites:
 1. Java:
 Jenkins requires Java to run. Ensure that you have Java Development Kit (JDK) installed
@@ -16,50 +18,62 @@ Jenkins is primarily accessed through a web browser. Ensure that you have a mode
 Jenkins runs on port 8080 by default. Ensure that this port is not being used by any other application, or configure Jenkins to use a different port if needed.
 
 ## Java Installation: 
+```bash
 sudo apt update 
 
 sudo apt install openjdk-11-jdk  
-
+```
 ## Jenkins Installation:
 
 ### 1. Download Jenkins GPG Key:
+``` bash
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
-
+```
 ### 2. Add Jenkins Repository Information:
+``` bash
 echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
   https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
   /etc/apt/sources.list.d/jenkins.list > /dev/null
+```
 
 ### 3. Update Package Lists:
+``` bash
 sudo apt-get update
-
+```
 ### 4. Install jenkins:
+``` bash
 sudo apt-get install jenkins
-
+```
 # Check Jenkins Service Status:
 
 ### Current Status:
+``` bash
 sudo systemctl status jenkins
+```
 ### To Start if Not Running:
+``` bash
 sudo systemctl status jenkins
-
+```
 ### NOTE: In below image when we chcek the jenkins status & if its running , The initial Password is also Displayed:
 ![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/db00c9ae-579e-4757-9436-060e7b1c3c16)
 
 ### Enable Jenkins Service (to start on boot):
+``` bash
 sudo systemctl enable jenkins
-
+```
 # Access Jenkins in a Web Browser:
+``` bash 
 http://<public-ip>:8080
-
+``` 
 After Completing all the above steps , you should be able to access the jenkins Unlock page by going to the above URL in your web browser
 
 ![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/ab8964f1-0570-4ed8-bd5c-0d6f499e7fa2)
 
 # Unlock Jenkins:
+``` bash
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
-
+```
 copy the password & Unlock the Jenkins
 ![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/80dda44a-3d41-42b4-b3db-06ed06953ecd)
 
