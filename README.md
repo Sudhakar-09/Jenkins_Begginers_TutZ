@@ -227,6 +227,7 @@ Following a naming convention brings clarity, consistency, and ease of managemen
 
 
 # Jenkins Configuration Overview
+![image](https://github.com/Sudhakar-09/Jenkins_Begginers_TutZ/assets/129831125/87866c99-e29e-46cc-8fd1-9d9991e67c67)
 
 ## 01. System Configuration
 
