@@ -4,9 +4,7 @@
 
 Jenkins Installation Guide : 
 
-``` bash
-__https://www.jenkins.io/doc/book/installing/linux/__
-```
+**[https://www.jenkins.io/doc/book/installing/linux/](https://www.jenkins.io/doc/book/installing/linux/)**
 ## prerequisites:
 1. Java:
 Jenkins requires Java to run. Ensure that you have Java Development Kit (JDK) installed
