@@ -225,3 +225,44 @@ Naming conventions provide a structured and consistent approach to naming Jenkin
 
 Following a naming convention brings clarity, consistency, and ease of management to your Jenkins projects. This simple practice enhances collaboration, automates processes, and ensures a smooth scaling of your Jenkins environment.
 
+
+# Jenkins Configuration Overview
+
+## 01. System Configuration
+
+### 1. Configuration System
+- Change plugin configurations for installed plugins.
+
+### 2. Global Tool Configuration
+- Set paths and configurations for tools like Maven, Git, etc.
+
+### 3. Manage Plugins
+- Add, remove, disable plugins, etc.
+
+### 4. Manage Nodes & Cloud
+- Add worker nodes and set their configurations.
+
+## 02. Security
+
+### 1. Configure Global Security
+- Secure Jenkins and manage role-based access.
+- Add or remove users.
+
+### 2. Manage Credentials
+- Manage credentials for use in Jenkins jobs.
+
+### 3. Manage Users
+- Create, add, modify users for Jenkins login.
+
+## Example:
+
+- **Configure System:**
+  - **System Message:** "Hello World"
+    - A message to display on the Jenkins dashboard as a notification.
+
+  - **Number of Executors:**
+    - Define how many jobs can run concurrently.
+
+  - **Label:**
+    - Assign names/labels to jobs or nodes.
+
