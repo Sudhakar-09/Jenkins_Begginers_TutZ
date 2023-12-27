@@ -26,7 +26,7 @@ sudo apt install openjdk-11-jdk
 ### 1. Download Jenkins GPG Key:
 ``` bash
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
-  https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+  https://pkg.jenkins.io/debian/jenkins.io-2023.key
 ```
 ### 2. Add Jenkins Repository Information:
 ``` bash
